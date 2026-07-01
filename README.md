@@ -204,9 +204,6 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/name`)
 5. Open Pull Request
 
-## License
-
-MIT License - see LICENSE file for details
 
 ## Author
 
